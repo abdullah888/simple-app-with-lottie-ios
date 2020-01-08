@@ -1,0 +1,6 @@
+framework module Pods_abdullahNN_abdullahNNUITests {
+  umbrella header "Pods-abdullahNN-abdullahNNUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
